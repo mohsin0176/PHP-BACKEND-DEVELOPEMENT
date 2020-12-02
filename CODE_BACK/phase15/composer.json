@@ -1,0 +1,10 @@
+{
+	"autoload":{
+		"classmap":[
+			"phase12/controllers",
+			"phase12/data",
+
+
+		]
+	}
+}
